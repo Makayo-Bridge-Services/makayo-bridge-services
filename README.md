@@ -48,5 +48,17 @@ All software is delivered under strict commercial licensing terms with no implie
 ## Headquarters
 King County, Washington, USA
 
+---
+
+## Proprietary & Confidentiality Notice
+The **Makayo Route Logic™ Engine** and **Makayo Gateway™ Infrastructure** consist of proprietary algorithms, architectural frameworks, and trade secrets owned exclusively by MAKAYO BRIDGE SERVICES LLC. 
+
+* **IP Status:** Patent Pending (Utility) | Trademark Pending.
+* **Access Restricted:** Technical specifications, source code, and logic flow diagrams are classified as **Confidential Information**. 
+* **Disclosure:** Full technical disclosure is available only to authorized institutional partners and is subject to a fully executed **Non-Disclosure Agreement (NDA)**. 
+* **Prohibitions:** Unauthorized attempts to reverse-engineer, decompile, or replicate the underlying logic of these engines are strictly prohibited and will be prosecuted to the fullest extent of the law.
+
+---
+
 ## Legal Notice
 All Rights Reserved. © 2025–2026 MAKAYO BRIDGE SERVICES LLC.
