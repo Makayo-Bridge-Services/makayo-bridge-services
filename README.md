@@ -1,6 +1,3 @@
-# MAKAYO BRIDGE SERVICES LLC
-### Software Engineering Firm for Navigation Intelligence & Institutional Data Infrastructure
-
 MAKAYO BRIDGE SERVICES LLC develops modular intelligence layers engineered for global navigation ecosystems and high‑security institutional data environments. Our software engines are designed for seamless integration, enterprise licensing, and long‑term scalability across mission‑critical systems.
 
 ---
